@@ -33,4 +33,5 @@ person2.personWeight = 39
 
 testMethodObject.testMethod(person2)
 const person3 = JSON.stringify(person2)
+
 document.getElementById("demo").innerHTML = person3;
